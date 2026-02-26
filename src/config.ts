@@ -1,3 +1,3 @@
 // Automatically uses localhost in dev and production URL when deployed
-export const API_URL = 'http://localhost:8000/stats'       // Local development
+export const API_URL = 'https://churnbackendapp.onrender.com/stats'       // Local development
 // Production
